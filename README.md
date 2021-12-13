@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Siyabonga Fortune AKA @sudo s programmer 
 - 👀 I’m interested in Website and Mobile App Development 
-- 🌱 I’m currently learning Computer Science And Information Systems
-- 💞️ I’m looking to collaborate on Facebook or Whatsapp
+- 🌱 I’m currently learning Computer Science, Statistics, Data Analysis And Information Systems
+- 💞️ I’m looking to collaborate on Facebook(Sudo S Programmer) || Whatsapp(send email for cell)
 - 📫 How to reach me: @sudosprogrammer@gmail.com || @nkunaf.sf@gmail.com
 
 <!---
