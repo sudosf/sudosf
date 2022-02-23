@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Siyabonga Fortune AKA @sudo s programmer 
+- 👋 Hi, I’m Siyabonga Fortune AKA Sudo S 
 - 👀 I’m interested in Website, Desktop, Mobile App Development, Data Science, Machine and Deep Learning
 - 🌱 I’m currently learning Computer Science, Statistics, Data Analysis And Information Systems
 - 💞️ I’m looking to collaborate on Facebook(Sudo S Programmer) || Whatsapp(send email for cell)
