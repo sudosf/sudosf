@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/sudo f indomitable" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sudo f indomitable" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@nkunaf.sf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@nkunaf.sf" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@nkunaf.sf" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@nkunaf.sf" height="30" width="40" /></a>
 </p>
 <br>
 
