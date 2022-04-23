@@ -2,6 +2,11 @@
 <h3 align="center">A passionate, strong-willed developer from South Africa</h3>
 
 - 🔭 I’m currently working on **ZA Explorers Adventure Game**
+  <p align="left"> 
+    <a href="https://godotengine.org">
+      <img src="logo_outlined.svg" width="100" alt="Godot Engine logo">
+    </a>
+  </p>
 
 - 🌱 I’m currently learning **MERN Stack, Hadoop, PHP, Game Development**
 
@@ -40,16 +45,8 @@
 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
- 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-
- # Godot Engine
- <p align="center">
-  <a href="https://godotengine.org">
-    <img src="logo_outlined.svg" width="400" alt="Godot Engine logo">
-  </a>
-</p>
 </p>
 <br>
 
