@@ -14,7 +14,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://github.com/sudosf](https://github.com/sudosf) -->
 
-- 💬 Ask me about **Web Dev, Game Dev, Data Analysis**
+- 💬 Ask me about **Web Dev, Game Dev, Data Analysis, Systems Design and Analysis**
 
 - 📫 How to reach me **nkunaf.sf@gmail.com, sudosprogrammer@gmail.com**
 
