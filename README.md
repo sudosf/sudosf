@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN Stack, Hadoop, PHP, Game Development**
 
-- 🤝 I’m looking for help with **Any projects fitting my skills**
+- 🤝 Great at **Developing projects and seeing them through**
 
 <!-- - 👨‍💻 All of my projects are available at [https://github.com/sudosf](https://github.com/sudosf) -->
 
