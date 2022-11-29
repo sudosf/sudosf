@@ -8,13 +8,13 @@
     </a>
   </p>
 
-- 🌱 I’m currently learning **MERN Stack, PHP, Game Development**
+- 🌱 I’m currently learning **Full-Stack Web Development, Data Analytics, Game Development**
 
 - 🤝 Great at **Developing and contributing to projects and seeing them through**
 
 <!-- - 👨‍💻 All of my projects are available at [https://github.com/sudosf](https://github.com/sudosf) -->
 
-- 💬 Skills **Web Dev, Game Dev, Data Analysis, Systems Design and Analysis, Project Development**
+- 💬 Skills **Google-Fu, Web Dev, Game Dev, Data Analytics, Systems Design and Analysis, Project Development**
 
 - 📫 How to reach me **nkunaf.sf@gmail.com, sudosprogrammer@gmail.com**
 
