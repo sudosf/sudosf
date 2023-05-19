@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siyabonga Fortune</h1>
 <h3 align="center">A passionate, strong-willed developer from South Africa</h3>
 
-- 🔭 I’m currently working on **AZA Explorers Adventure Game**
+- 🔭 I’m currently working on **Mchezo Adventure Game**
   <p align="left"> 
     <a href="https://godotengine.org">
       <img src="logo_outlined.svg" width="100" alt="Godot Engine logo">
