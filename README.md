@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siyabonga Fortune Nkuna</h1>
+<h1 align="center">Hi 👋, I'm Siya!</h1>
 <h3 align="center">A passionate, strong-willed Software Developer from South Africa</h3>
 
 - 🔭 I’m currently working on **The Launch Pad Project**
