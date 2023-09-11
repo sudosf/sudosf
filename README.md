@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **PCRepairs Full-Stack Website**
   <p align="left"> 
     <a href="https://godotengine.org">
-      <img src="logo_outlined.svg" width="100" alt="Godot Engine logo">
+      <img src="reactjs.png" width="100" alt="React.js logo">
     </a>
   </p>
 
