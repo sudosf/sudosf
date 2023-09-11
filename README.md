@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Siya!</h1>
 <h3 align="center">A passionate, strong-willed Software Developer from South Africa</h3>
 
-- 🔭 I’m currently working on **The Launch Pad Project**
+- 🔭 I’m currently working on **PCRepairs Full-Stack Website**
   <p align="left"> 
     <a href="https://godotengine.org">
       <img src="logo_outlined.svg" width="100" alt="Godot Engine logo">
     </a>
   </p>
 
-- 🌱 I’m currently learning **Software Development, Full-Stack Web Development, Game Development**
+- 🌱 I’m currently learning **Software Development, React.js, Node.js, Express.js**
 
-- 🤝 Great at **Developing and contributing to projects and seeing them through**
+- 🤝 Great at **Developing and contributing to projects throughtout the full development circle**
 
 <!-- - 👨‍💻 All of my projects are available at [https://github.com/sudosf](https://github.com/sudosf) -->
 
-- 💬 Skills **Google-Fu, Software and Web Dev, Game Dev, Data Analytics, Systems Design and Analysis, Project Development**
+- 💬 Skills **JavaScript Engineer, PHP Developer, Google-Fu, Game Developer, Data Analytics, Systems Analysis and Design, Project Development**
 
 - 📫 How to reach me **nkunaf.sf@gmail.com, sudosprogrammer@gmail.com**
 
