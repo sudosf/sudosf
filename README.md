@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **PCRepairs Full-Stack Website**
   <p align="left"> 
     <a href="https://react.dev/">
-      <img src="reactjs.png" width="100" alt="React.js logo">
+      <img src="reactjs.png" width="200" alt="React.js logo">
     </a>
   </p>
 
