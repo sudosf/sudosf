@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siya!</h1>
 <h3 align="center">A passionate, Innovative Software Developer from South Africa</h3>
 
-- 🔭 I’m currently working on **PCRepairs Full-Stack Website**
+- 🔭 I’m currently working on <a href="https://github.com/sudosf/PCRepairs-PHP-Website">**PCRepairs Full-Stack Website**</a>
   <p align="left"> 
     <a href="https://react.dev/">
       <img src="reactjs.png" width="200" alt="React.js logo">
