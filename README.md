@@ -51,9 +51,17 @@
 <br>
 
 <p>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudosf&show_icons=true&layout=compact&locale=en" alt="sudosf"/>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudosf&layout=donut)](https://github.com/sudosf/github-readme-stats)
+  
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudosf&show_icons=true&locale=en" alt="sudosf" /></p>
+
+<p>
+  
+  ![Siya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudosf&show_icons=true&theme=radical)
+  
+</p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudosf&" alt="sudosf" /></p>
 
 <!---
