@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siya!</h1>
-<h3 align="center">A passionate, Innovative Software Developer from South Africa</h3>
+<h3 align="center">A Passionate, Innovative Software Developer from South Africa</h3>
 
 - 🔭 I’m currently working on <a href="https://github.com/sudosf/PCRepairs-PHP-Website">**PCRepairs Full-Stack Website**</a>
   <p align="left"> 
