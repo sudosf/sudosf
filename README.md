@@ -52,7 +52,7 @@
 
 <p>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudosf&layout=donut)](https://github.com/sudosf/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudosf&layout=donut-vertical)](https://github.com/sudosf/github-readme-stats)
   
 </p>
 
