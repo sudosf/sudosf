@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Siya!</h1>
 <h3 align="center">A Passionate, Innovative Software Engineer from South Africa</h3>
 
-- 🔭 I’m currently working on <a href="https://bbdsoftware.com/jobs/graduate-programme-2024/"  target="_blank">**BBD Grad Programme 2024**</a>
+- 🔭 I’m currently working on <a href="https://bbdsoftware.com/jobs/graduate-programme-2024/" target="_blank">**BBD Grad Programme 2024**</a>
   <p align="left"> 
-    <a href="https://bbdsoftware.com/"  target="_blank">
+    <a href="https://bbdsoftware.com/" target="_blank">
       <img src="https://www.graduates24.com/images/uploads/1708621761.jpg" width="400" alt="React.js logo">
     </a>
   </p>
