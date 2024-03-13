@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Siya!</h1>
-<h3 align="center">A Passionate, Innovative Software Developer from South Africa</h3>
+<h3 align="center">A Passionate, Innovative Software Engineer from South Africa</h3>
 
-- 🔭 I’m currently working on <a href="https://github.com/sudosf/PCRepairs-PHP-Website">**PCRepairs Full-Stack Website**</a>
+- 🔭 I’m currently working on <a href="https://bbdsoftware.com/jobs/graduate-programme-2024/">**BBD Grad Programme 2024**</a>
   <p align="left"> 
-    <a href="https://react.dev/">
-      <img src="reactjs.png" width="200" alt="React.js logo">
+    <a href="https://bbdsoftware.com/">
+      <img src="https://www.graduates24.com/images/uploads/1708621761.jpg" width="400" alt="React.js logo">
     </a>
   </p>
 
-- 🌱 I’m currently learning **Software Development, React.js, Node.js, Express.js**
+- 🌱 I’m currently learning **Software Development, React.js and Node.js**
 
-- 🤝 Great at **Developing and contributing to projects throughtout the full development circle**
+- 🤝 Great at **developing and contributing to projects throughtout the full development circle**
 
 <!-- - 👨‍💻 All of my projects are available at [https://github.com/sudosf](https://github.com/sudosf) -->
 
-- 💬 Skills **JavaScript Engineer, PHP Developer, Google-Fu, Game Developer, Data Analytics, Systems Analysis and Design, Project Development**
+- 💬 Skills **Backend Engineer, JavaScript Engineer, React.js Engineer, Google-Fu, Game Developer, PHP Developer, Data Analytics**
 
 - 📫 How to reach me **nkunaf.sf@gmail.com, sudosprogrammer@gmail.com**
 
