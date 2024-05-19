@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siya!</h1>
+
 <h3 align="center">A Passionate, Innovative Software Engineer from South Africa</h3>
 
 - 🔭 I’m currently working on <a href="https://bbdsoftware.com/jobs/graduate-programme-2024/" target="_blank">**BBD Grad Programme 2024**</a>
@@ -14,18 +15,11 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://github.com/sudosf](https://github.com/sudosf) -->
 
-- 💬 Skills **Backend Engineer, JavaScript Engineer, React.js Engineer, Google-Fu, Game Developer, PHP Developer, Data Analytics**
+- 💬 Skills **Backend Engineer, JavaScript Engineer, React.js Engineer, Google-Fu, Game Developer, Data Analytics, PHP Developer**
 
 - 📫 How to reach me **nkunaf.sf@gmail.com, sudosprogrammer@gmail.com**
 
 - ⚡ Fun fact **I love solving coding puzzles**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/sudosf" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sudo f indomitable" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@nkunaf.sf" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@nkunaf.sf" height="30" width="40" /></a>
-</p>
-<br>
 
 <h3 align="left">Languages and Tools:</h3>
 
