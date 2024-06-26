@@ -9,15 +9,7 @@
     </a>
   </p>
 
-- 🌱 I’m currently learning **Software Development, React.js and Node.js**
-
-- 🤝 Great at **developing and contributing to projects throughtout the full development circle**
-
-<!-- - 👨‍💻 All of my projects are available at [https://github.com/sudosf](https://github.com/sudosf) -->
-
-- 💬 Skills **Backend Engineer, JavaScript Engineer, React.js Engineer, Google-Fu, Game Developer, Data Analytics, PHP Developer**
-
-- 📫 How to reach me **nkunaf.sf@gmail.com, sudosprogrammer@gmail.com**
+- 🤝 Full-Stack Developer Expert by Passion and Profession
 
 - ⚡ Fun fact **I love solving coding puzzles**
 
