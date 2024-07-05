@@ -9,7 +9,7 @@
     </a>
   </p>
 
-- 🤝 Full-Stack Developer Expert by Passion and Profession
+- 🤝 Full-stack developer professional by passion and profession
 
 - ⚡ Fun fact **I love solving coding puzzles**
   
