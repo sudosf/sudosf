@@ -9,26 +9,19 @@
     </a>
   </p>
 
-- 🤝 Full-stack developer professional by passion and profession
+- 🤝 Full-stack engineer by **Passion** && **Profession**
 
 - ⚡ Fun fact **I love solving coding puzzles**
   
 <br>
-<p>  
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudosf&layout=donut-vertical)](https://github.com/sudosf/github-readme-stats)  
-  
-</p>
+<!-- Languages used -->
+<a href="https://github.com/sudosf/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudosf&layout=compact&hide_border=true" />
+</a> 
 
+<br><br>
 <!--Streak -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudosf&" alt="sudosf" /></p>
-
-<br>
-<p>
-  
-  ![Siya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudosf&show_icons=true&theme=radical)
-  
-</p>
 
 <!---
 sudosf/sudosf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
