@@ -12,17 +12,16 @@
 - 🤝 Full-stack engineer by **Passion** && **Profession**
 
 - ⚡ Fun fact **I love solving coding puzzles**
-  
+
+<br>
+<!--Streak -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudosf&" alt="sudosf" /></p>
+
 <br>
 <!-- Languages used -->
 <a href="https://github.com/sudosf/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudosf&layout=compact&hide_border=true" />
 </a> 
-
-<br><br>
-<!--Streak -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudosf&" alt="sudosf" /></p>
-
 <!---
 sudosf/sudosf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
