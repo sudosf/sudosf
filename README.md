@@ -19,7 +19,7 @@
 
 <br>
 <!-- Languages used -->
-<a href="https://github.com/sudosf/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sudosf&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudosf&layout=compact&hide_border=true" />
 </a> 
 <!---
