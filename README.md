@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on <a href="#" target="_blank">**Really Cool Stuff!**</a> (<i>and Java</i>)
   <p align="left"> 
     <a href="https://entelect.com.au/" target="_blank">
-      <img src="https://www.graduates24.com/images/uploads/1708621761.jpg" width="400" alt="React.js logo">
+      <img src="https://entelect.com.au/wp-content/uploads/2021/04/Entelect-logo.png" width="400" alt="React.js logo">
     </a>
   </p>
 
