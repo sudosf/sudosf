@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm Siya!</h1>
+<h3 align="center">Software Engineer from South Africa</h3>
 
-<h3 align="center">A Passionate, Innovative Software Engineer from South Africa</h3>
-
-- 🔭 I’m currently working on <a href="#" target="_blank">**Really Cool Stuff!**</a>
+- 🔭 I’m currently working on <a href="#" target="_blank">**Really Cool Stuff!**</a> (<i>and Java</i>)
   <p align="left"> 
-    <a href="https://bbdsoftware.com/" target="_blank">
+    <a href="https://entelect.com.au/" target="_blank">
       <img src="https://www.graduates24.com/images/uploads/1708621761.jpg" width="400" alt="React.js logo">
     </a>
   </p>
 
-- 🤝 Full-stack engineer by **Passion** && **Profession**
+- Full-stack engineer by **Passion** && **Profession**
 
-- ⚡ Fun fact **I love solving coding puzzles**
+- Fun fact **I love solving coding puzzles**
 
 <br>
 <!--Streak -->
