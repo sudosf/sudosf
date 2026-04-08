@@ -1,4 +1,4 @@
-<h3 align="center">Software Engineer from South Africa</h3>
+<h2 align="center">Software Engineer from South Africa</h2>
 
 - 🔭 I’m currently working on <a href="#" target="_blank">**Really Cool Stuff!**</a> (<i>and Java</i>)
   <p align="left"> 
