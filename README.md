@@ -9,7 +9,7 @@
 
 - Full-stack engineer by **Passion** && **Profession**
 
-- Fun fact **I love solving coding puzzles**
+- Fun fact **I love solving coding puzzles** on [LeetCode](https://leetcode.com/u/sudosf/)
 
 <br>
 <!--Streak -->
