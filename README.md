@@ -18,7 +18,7 @@
 <br>
 <!-- Languages used -->
 <a href="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sudosf&layout=compact">
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sudosf&layout=pie" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sudosf&layout=donut-vertical" />
 </a> 
 <!---
 sudosf/sudosf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
