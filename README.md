@@ -17,7 +17,7 @@
 
 <br>
 <!-- Languages used -->
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sudosf&layout=compact">
+<a href="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sudosf&layout=compact">
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sudosf&layout=pie" />
 </a> 
 <!---
